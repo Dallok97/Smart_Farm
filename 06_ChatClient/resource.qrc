@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/4388775.png</file>
+        <file>image/2688820.png</file>
+        <file>image/2554083.png</file>
+        <file>image/Checkbox_Off.png</file>
+        <file>image/Checkbox_On.png</file>
+        <file>image/humi50x50.png</file>
+        <file>image/temp50x50.png</file>
+        <file>image/humidity.png</file>
+        <file>image/temperature.png</file>
+    </qresource>
+</RCC>
