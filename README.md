@@ -1,8 +1,7 @@
 # Smart_Farm
 스마트팜 프로젝트
 
-Qt Creator
-C++
+Qt Creator / C++ / Ubuntu
 
 
 ![image](https://user-images.githubusercontent.com/99648680/231728030-d3f4d17d-a4c0-41fe-8428-6f8799244de2.png)
